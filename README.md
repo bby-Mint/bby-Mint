@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Mintra (Mint)! 🪐
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1530214425233985556/2160313ba53b5c7f3444f1085bfe2ed9.png?size=4096" width="200" />
+  <img src="https://github.com/bby-Mint/bby-Mint/blob/903940237933583613da4b7efd0d1d2fc56e3c5f/Mint's%20Desk.png" width="200" />
 </p>
 
 <p align="center">
