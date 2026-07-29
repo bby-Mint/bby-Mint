@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Mintra (Mint)! 🪐
 
 <p align="center">
-  <img src="https://github.com/bby-Mint/bby-Mint/blob/903940237933583613da4b7efd0d1d2fc56e3c5f/Mint's%20Desk.png" width="48%" />
   <img src="https://github.com/bby-Mint/bby-Mint/blob/086844c268c2a80c8d2e7314292019c76d5849f5/BU_solo1.png" width="48%" />
+  <img src="https://github.com/bby-Mint/bby-Mint/blob/903940237933583613da4b7efd0d1d2fc56e3c5f/Mint's%20Desk.png" width="48%" />
 </p>
 
 <p align="center">
