@@ -26,12 +26,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+**Projects & Practice:**
+- ☕ [**java-exercises**](https://github.com/bby-mint/java-exercises) — practice problems from IT class
+- 🐍 [**python-basic-quiz**](https://github.com/bby-mint/python-basic-quiz) — intro to programming quiz game
+- 🌐 [**web-dev-practice**](https://github.com/bby-mint/web-dev-practice) — messing with HTML & CSS
+
 ---
 
 ### 🔒 AI Security Research
 *Exploring the intersection of prompt engineering and model safety.*
 
-[![Gray Swan Arena Portfolio](https://img.shields.io/badge/Gray_Swan_Arena-Portfolio-9cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bby-mint-xo/gray-swan-arena-portfolio)
+[![Gray Swan Arena Portfolio](https://img.shields.io/badge/Gray_Swan_Arena-Portfolio-9cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bby-Mint/gray-swan-arena-portfolio)
 
 > *"Completed a red-teaming challenge analyzing prompt injection defenses across multiple AI models. The goal: make AI safer by thinking like an attacker."*
 
