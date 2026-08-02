@@ -28,6 +28,15 @@
 
 ---
 
+### 🔒 AI Security Research
+*Exploring the intersection of prompt engineering and model safety.*
+
+[![Gray Swan Arena Portfolio](https://img.shields.io/badge/Gray_Swan_Arena-Portfolio-9cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bby-mint-xo/gray-swan-arena-portfolio)
+
+> *"Completed a red-teaming challenge analyzing prompt injection defenses across multiple AI models. The goal: make AI safer by thinking like an attacker."*
+
+---
+
 ### 📫 Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1530214425233985556)
 
