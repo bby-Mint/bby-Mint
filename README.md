@@ -30,7 +30,7 @@
 - ☕ [**java-exercises**](https://github.com/bby-mint/java-exercises) — practice problems from IT class
 - 🐍 [**python-basic-quiz**](https://github.com/bby-mint/python-basic-quiz) — intro to programming quiz game
 - 🌐 [**web-dev-practice**](https://github.com/bby-mint/web-dev-practice) — messing with HTML & CSS
-- 🤖 [**discord-coffee-bot**](https://github.com/bby-mint-xo/discord-coffee-bot) — a silly bot that serves virtual coffee
+- 🤖 [**discord-coffee-bot**](https://github.com/bby-mint/discord-coffee-bot) — a silly bot that serves virtual coffee
 ---
 
 ### 🔒 AI Security Research
